@@ -40,8 +40,5 @@ mcp:
             args: ["-y", "@modelcontextprotocol/server-filesystem", "."]
         snowflake:
             command: "uv"
-            "args": [
-              "run",
-              "/home/andy/projects/mcp-snowflake/main.py"
-            ]
+            "args": ["run", "/home/andy/projects/mcp-snowflake/main.py"]
 
